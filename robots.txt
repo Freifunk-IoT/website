@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: dataprotection.html
+Disallow: impress.html
+Sitemap: https://freifunk-iot.de/sitemap.xml
